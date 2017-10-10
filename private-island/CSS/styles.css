@@ -1,19 +1,28 @@
 body {
   text-align: center;
   font-family: sans-serif;
-  background-color:#B3D8C8;
+  background-color: salmon;
 }
+
+ul {
+  list-style-type: none;
+}
+
 li {
-  display: inline;
-  margin-right: 10px;
-  border-style: inset;
+
 }
 
-img {
-
+a:hover {
+  color: white;
 }
 
 a{
-  color: gray;
+  color: black;
   font-family: sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-size: 25px;
+  font-family: cursive;
 }
