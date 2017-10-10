@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color:#B3D8C8;
+}
+li {
+  display: inline;
+  margin-right: 10px;
+  border-style: inset;
+}
+
+img {
+
+}
+
+a{
+  color: gray;
+  font-family: sans-serif;
+}
